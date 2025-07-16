@@ -570,6 +570,18 @@
           "label": "#",
           "name": "${ITEM_NUMBER}",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Pins",
+          "name": "Sim.Pins",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Device",
+          "name": "Sim.Device",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -623,6 +635,10 @@
     [
       "782e411a-4e99-40b6-9166-fe1b6998c984",
       "Root"
+    ],
+    [
+      "40685565-c609-40e4-a471-31eafc616f6e",
+      "matrix"
     ]
   ],
   "text_variables": {}
